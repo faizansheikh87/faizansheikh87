@@ -1,4 +1,4 @@
-<h2 align="left">"Hi 👋! My name is Faizan, and I'm a programmer skilled in Python and Data Structures & Algorithms (DSA)..</h2>
+<h2 align="left">"Hi 👋! My name is Faizan, and I'm a programmer skilled in Python and Data Structures & Algorithms (DSA)...</h2>
 
 ###
 
