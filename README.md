@@ -18,62 +18,53 @@
 ###
 
 <br clear="both">
+<h2>🛠 Tech Stack</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-</div>
+<h3>Languages:</h3>
+<ul>
+  <li><a href="https://www.java.com/" target="_blank">Java</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a></li>
+  <li><a href="https://www.python.org/" target="_blank">Python</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML5</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS3</a></li>
+</ul>
 
-###
+<h3>Frameworks & Libraries:</h3>
+<ul>
+  <li><a href="https://react.dev/" target="_blank">React</a></li>
+  <li><a href="https://nodejs.org/" target="_blank">Node.js</a></li>
+  <li><a href="https://getbootstrap.com/" target="_blank">Bootstrap</a></li>
+</ul>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/faizan-sheikh-373136291" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://discord.com/your-discord-id" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://www.youtube.com/your-youtube-channel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-  <a href="https://wa.me/your-whatsapp-number" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-  <a href="https://www.instagram.com/your-instagram-id" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://www.facebook.com/your-facebook-profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-</div>
+<h3>Databases & Cloud:</h3>
+<ul>
+  <li><a href="https://www.mysql.com/" target="_blank">MySQL</a></li>
+  <li><a href="https://www.mongodb.com/" target="_blank">MongoDB</a></li>
+  <li><a href="https://cloud.google.com/" target="_blank">Google Cloud</a></li>
+</ul>
+
+<h3>Other Tools:</h3>
+<ul>
+  <li><a href="https://git-scm.com/" target="_blank">Git</a></li>
+  <li><a href="https://www.salesforce.com/" target="_blank">Salesforce</a></li>
+  <li><a href="https://www.figma.com/" target="_blank">Figma</a></li>
+  <li><a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a></li>
+  <li><a href="https://www.blender.org/" target="_blank">Blender</a></li>
+  <li><a href="https://www.docker.com/" target="_blank">Docker</a></li>
+  <li><a href="https://jupyter.org/" target="_blank">Jupyter Notebook</a></li>
+</ul>
+
+<h2>👥 Social Media</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/faizan-sheikh-373136291" target="_blank">LinkedIn</a></li>
+  <li><a href="https://twitter.com/your-twitter-handle" target="_blank">Twitter</a></li>
+  <li><a href="https://discord.com/your-discord-id" target="_blank">Discord</a></li>
+  <li><a href="https://www.youtube.com/your-youtube-channel" target="_blank">YouTube</a></li>
+  <li><a href="https://wa.me/your-whatsapp-number" target="_blank">WhatsApp</a></li>
+  <li><a href="https://www.instagram.com/your-instagram-id" target="_blank">Instagram</a></li>
+  <li><a href="https://www.facebook.com/your-facebook-profile" target="_blank">Facebook</a></li>
+</ul>
+
 
 ###
 <div style="text-align: left; padding-left: 20px;">
