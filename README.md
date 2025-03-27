@@ -31,9 +31,12 @@
 
 <h3>Frameworks & Libraries:</h3>
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40"></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50"></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50"></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50"></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50"></a>
+  <a href="https://threejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" width="50"></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50"></a>
 </div>
 
 <h3>Databases & Cloud:</h3>
