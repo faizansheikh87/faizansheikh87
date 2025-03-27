@@ -76,9 +76,12 @@
 </div>
 
 ###
-
-<div align="left">
+<div style="text-align: left; padding-left: 20px;">
   <h2>🏆 LeetCode Achievements & Stats</h2>
+</div>
+
+<div align="center">
+   
   <img src="https://leetcard.jacoblin.cool/faizan_sheikh?theme=dark&font=patrick_hand&ext=heatmap&achievements=true" alt="LeetCode Stats">
 </div>
  
