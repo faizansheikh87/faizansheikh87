@@ -78,11 +78,16 @@
 ###
 
 <div align="center">
+  <h2>🏆 LeetCode Achievements & Stats</h2>
+  <img src="https://leetcard.jacoblin.cool/faizan_sheikh?theme=dark&font=patrick_hand&ext=heatmap&achievements=true" alt="LeetCode Stats">
+</div>
+
+###
+###
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/faizansheikh87/count.svg?" />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/faizan_sheikh?theme=dark&font=patrick_hand" alt="LeetCode Stats" />
-</div>
