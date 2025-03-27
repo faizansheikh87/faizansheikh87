@@ -87,8 +87,9 @@
  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/db13497e-939e-4685-bf3f-0920eb4c8eee" width="130"/>  
-  <img src="https://github.com/user-attachments/assets/4bf2bab6-14a0-434c-ab55-3b1f3a182774" width="130"/> 
-  <img src="https://github.com/user-attachments/assets/b148ea36-a2a0-4d3c-9717-8221abdf93b2" width="130"/>
+  <img src="https://leetcode.com/static/images/badges/knight.png" width="80">
+  <img src="https://leetcode.com/static/images/badges/guardian.png" width="80">
+
 </p>
 
 ---
