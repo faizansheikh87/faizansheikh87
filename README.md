@@ -77,14 +77,11 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <h2>🏆 LeetCode Achievements & Stats</h2>
   <img src="https://leetcard.jacoblin.cool/faizan_sheikh?theme=dark&font=patrick_hand&ext=heatmap&achievements=true" alt="LeetCode Stats">
 </div>
-### LeetCode Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/faizan_sheikh?theme=dark&font=Abel&ext=heatmap&border=2&radius=20&animation=true&site=leetcode" alt="Faizan's LeetCode stats" style="border-radius: 15px;">
-</p>
+ 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/db13497e-939e-4685-bf3f-0920eb4c8eee" width="130"/>  
   <img src="https://github.com/user-attachments/assets/4bf2bab6-14a0-434c-ab55-3b1f3a182774" width="130"/> 
